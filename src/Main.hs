@@ -1,5 +1,5 @@
 module Main where
 
-import Data.Digest.CRC32
+import Codec.Archive.Zip
 
 main = print "yo again"
